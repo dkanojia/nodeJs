@@ -1,0 +1,25 @@
+{
+  "name": "nodejson",
+  "version": "1.0.0",
+  "description": "node starting",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkanojia/nodeJs.git"
+  },
+  "keywords": [
+    "nodekeywords"
+  ],
+  "author": "Deepak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkanojia/nodeJs/issues"
+  },
+  "homepage": "https://github.com/dkanojia/nodeJs#readme",
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
